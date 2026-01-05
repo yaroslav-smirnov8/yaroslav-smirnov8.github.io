@@ -1,0 +1,33 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Portfolio materials (keep only main site)
+invbot/
+matrix quest/
+platform teachers/
+store/
+teacherhelper/
+train prompts bot/
+projects/currency-api/
+projects/hashtag-tracker/
+projects/voice-bot/
+deployment-guide.md
+portfolio-summary.md
