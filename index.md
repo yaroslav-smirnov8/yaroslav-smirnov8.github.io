@@ -64,8 +64,8 @@ title: Python Backend Engineer | AI & Automation Specialist
           <h3>EvoTeach AI Bot</h3>
           <p class="project-tech">Python • asyncio • SQLAlchemy • MySQL • Multi-AI Integration</p>
           <p class="project-desc">Production-grade AI platform serving 500+ active users, running 24/7. Features automated subscription management, multi-provider AI failover (4-layer), payment processing, and custom DDoS protection. Demonstrates async architecture, connection pooling and concurrent request handling, and zero downtime deployment.</p>
+          <p class="project-video"><em>Video Coming Soon</em></p>
           <div class="project-links">
-            <a href="projects/invbot/" class="project-link">View Details →</a>
             <a href="https://github.com/yaroslav-smirnov8/telegram-subscription-bot" class="project-link">GitHub →</a>
           </div>
         </div>
@@ -80,8 +80,8 @@ title: Python Backend Engineer | AI & Automation Specialist
           <h3>Matrix Teaching Quest</h3>
           <p class="project-tech">FastAPI • React 18 • PostgreSQL • Async SQLAlchemy</p>
           <p class="project-desc">Full-stack interactive quest system with branching narratives, achievement system, and first-party analytics. Features async-first FastAPI architecture, browser fingerprinting for anonymous tracking, real-time event processing, and admin dashboard with conversion funnels and data export.</p>
+          <p class="project-video"><em>Video Coming Soon</em></p>
           <div class="project-links">
-            <a href="projects/matrix-quest/" class="project-link">View Details →</a>
             <a href="https://github.com/yaroslav-smirnov8/matrix-teaching-quest" class="project-link">GitHub →</a>
           </div>
         </div>
@@ -96,8 +96,8 @@ title: Python Backend Engineer | AI & Automation Specialist
           <h3>AI Course Generator Platform</h3>
           <p class="project-tech">FastAPI • Vue.js 3 • PostgreSQL • Cloudflare Workers</p>
           <p class="project-desc">Hybrid server-serverless architecture for AI-powered educational content generation. Features custom AI aggregation layer with automatic failover across OpenAI, Gemini, and Anthropic. Includes Telegram Mini App integration, gamification system, and 40% cost reduction through intelligent model routing.</p>
+          <p class="project-video"><em>Video Coming Soon</em></p>
           <div class="project-links">
-            <a href="projects/platform-teachers/" class="project-link">View Details →</a>
             <a href="https://github.com/yaroslav-smirnov8/ai-course-generator" class="project-link">GitHub →</a>
           </div>
         </div>
@@ -112,8 +112,8 @@ title: Python Backend Engineer | AI & Automation Specialist
           <h3>Teacher Scheduler Bot</h3>
           <p class="project-tech">Python • SQLAlchemy • MySQL • Telegram Bot API</p>
           <p class="project-desc">Automated lesson scheduling system eliminating double-bookings through database-level conflict detection. Features calendar-based UI with inline keyboards, multi-step conversation handlers, automated notifications, and student-initiated rescheduling with approval workflow. Demonstrates state management and transaction handling.</p>
+          <p class="project-video"><em>Video Coming Soon</em></p>
           <div class="project-links">
-            <a href="projects/teacherhelper/" class="project-link">View Details →</a>
             <a href="https://github.com/yaroslav-smirnov8/teacher-scheduler-bot" class="project-link">GitHub →</a>
           </div>
         </div>
@@ -128,8 +128,8 @@ title: Python Backend Engineer | AI & Automation Specialist
           <h3>Train Prompts Bot</h3>
           <p class="project-tech">Python • aiogram 3 • PostgreSQL • AI Integration</p>
           <p class="project-desc">Educational bot teaching prompt engineering with guided lessons, interactive quizzes, and AI-powered feedback. Features structured lesson progression, auto-graded quizzes using LLM evaluation, daily generation quotas, user ratings leaderboard, and comprehensive admin controls. Demonstrates modular async architecture.</p>
+          <p class="project-video"><em>Video Coming Soon</em></p>
           <div class="project-links">
-            <a href="projects/train-prompts-bot/" class="project-link">View Details →</a>
             <a href="https://github.com/yaroslav-smirnov8/prompt-trainer-bot" class="project-link">GitHub →</a>
           </div>
         </div>
